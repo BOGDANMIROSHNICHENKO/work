@@ -1,0 +1,14 @@
+.nav-link {
+font-size: 20px;
+}
+.nav-link.active img{
+
+width: 40px;
+border-radius: 25px;
+}
+.card img{
+	border-radius: 10px;
+}
+.card{
+	border-radius: 10px;
+}
