@@ -1,0 +1,12 @@
+ @media (max-width: 768px){
+        .container-fluid{
+         margin-left: 15px;
+        }
+      }
+@media (min-width: 1024px){
+       .container-fluid{
+              margin-left: 20px;
+
+              
+}
+}
